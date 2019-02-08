@@ -1,0 +1,6 @@
+apache_fpm/htdocs/*
+!apache_fpm/htdocs/index.php
+apache_fpm/logs
+apache_php/htdocs/*
+!apache_php/htdocs/index.php
+php_fpm/logs
